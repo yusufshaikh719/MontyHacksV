@@ -1,0 +1,54 @@
+body {
+    background-color: lightblue;
+    width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-family: courier new;
+    font-size: 200%;
+    color: tahoma;
+    text-align: left;
+    padding: 10px;
+}
+
+
+h2 {
+    font-family: impact;
+    font-size: 140%;
+    color: #290671;
+    text-align: center;
+}
+
+
+p {
+    font-family: tahoma;
+    font-size: 110%;
+    color: #000000;
+    text-align: left;
+    line-height: 130%;
+}
+
+hr {
+    width: 580px;
+    color: green;
+    background-color: #A101A6;
+    height: 5px;
+}
+
+img {
+    float: right;
+    padding: 15px;
+}
+
+
+table {
+    font-family: arial;
+    font-size: 100%;
+    color: black;
+    text-align: center;
+}
+
+td {
+    padding: 5px;
+}
